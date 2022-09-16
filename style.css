@@ -6,16 +6,28 @@ body {
       rgba(255, 255, 255, 0.3)
     ),
     url(./images/bg.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: 1920px 969px;
 }
-h1 {
+#title {
   text-align: center;
   margin-top: 50px;
   font-size: 50px;
 }
-mark.q {
-  background-color: rgb(241, 220, 179);
-  color: #3a576d;
+h2 {
+  text-align: center;
+  font-size: 35px;
 }
-mark.q
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 15px solid rgba(23, 58, 87, 0.616);
+}
+mark.q {
+  background-color: rgb(240, 192, 129);
+  color: #5c755e;
+}
+mark.w {
+  background-color: #fae7c2;
+}
