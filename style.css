@@ -8,15 +8,20 @@ body {
     url(./images/bg.jpg);
   background-repeat: repeat;
   background-size: 1920px 969px;
+  text-align: center;
 }
 #title {
-  text-align: center;
-  margin-top: 50px;
+  margin: 0 auto;
   font-size: 50px;
 }
 h2 {
   text-align: center;
   font-size: 35px;
+  background-color: #fae7c2;
+  width: 700px;
+  margin:0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .images {
   display: block;
@@ -24,10 +29,9 @@ h2 {
   margin-right: auto;
   border: 15px solid rgba(23, 58, 87, 0.616);
 }
-mark.q {
+.q {
   background-color: rgb(240, 192, 129);
+  width: 600px;
   color: #5c755e;
-}
-mark.w {
-  background-color: #fae7c2;
+  
 }
