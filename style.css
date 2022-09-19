@@ -18,7 +18,13 @@ body {
 h2 {
   text-align: center;
   font-size: 35px;
+<<<<<<< HEAD
   margin: 0 auto;
+=======
+  background-color: #fae7c2;
+  width: 700px;
+  margin:0 auto;
+>>>>>>> 3952de684e0ef3d6132e56c215a8f299522a57ac
   margin-top: 50px;
   margin-bottom: 50px;
 }
@@ -32,9 +38,14 @@ h2 {
   background-color: rgb(240, 192, 129);
   width: 600px;
   color: #5c755e;
+<<<<<<< HEAD
 }
 
 .w {
   background-color: #fae7c2;
   width: 400px;
 }
+=======
+  
+}
+>>>>>>> 3952de684e0ef3d6132e56c215a8f299522a57ac
