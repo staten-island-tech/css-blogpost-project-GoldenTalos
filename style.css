@@ -14,15 +14,16 @@ body {
   margin: 0 auto;
   margin-top: 50px;
   font-size: 50px;
+  font-family: "Inknut Antiqua", serif;
 }
 h2 {
   text-align: center;
   font-size: 35px;
-  background-color: #fae7c2;
-  width: 700px;
-  margin:0 auto;
+  margin: 0 auto;
   margin-top: 50px;
   margin-bottom: 50px;
+  font-family: "Shadows Into Light", cursive;
+  font-style: bold;
 }
 .images {
   display: block;
@@ -32,7 +33,19 @@ h2 {
 }
 .q {
   background-color: rgb(240, 192, 129);
-  width: 600px;
+  width: 700px;
   color: #5c755e;
-  
+}
+
+.w {
+  background-color: #fae7c2;
+  width: 400px;
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: rgb(187, 84, 36);
 }
