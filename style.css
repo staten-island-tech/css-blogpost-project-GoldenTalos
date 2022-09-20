@@ -21,9 +21,18 @@ h2 {
   font-size: 40px;
   margin: 0 auto;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: auto;
   font-family: "Indie Flower", serif;
   font-style: bold;
+}
+
+.preview {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  background-color: rgb(235, 219, 196);
+  width: 360px;
 }
 .images {
   display: block;
