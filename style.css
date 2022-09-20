@@ -31,13 +31,13 @@ h2 {
   margin-right: auto;
   border: 15px solid rgba(23, 58, 87, 0.616);
 }
-.q {
+.topic {
   background-color: rgb(240, 192, 129);
   width: 700px;
   color: #5c755e;
 }
 
-.w {
+.gametitle {
   background-color: #fae7c2;
   width: 400px;
 }
